@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://15.206.153.158:8081/repository/nodeJs-wallmart/"
+    "registry": "http://52.66.211.167:8081/repository/nodeJs-wallmart/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
